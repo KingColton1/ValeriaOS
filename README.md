@@ -1,3 +1,3 @@
-![alt text](https://github.com/KingColton1/ValeriaOS/blob/master/Img/ValeriaOS-Logo-White.png)
+<img src="/Img/ValeriaOS-Logo-White.png" alt="ValeriaOS Logo">
 # ValeriaOS
 An API Framework
